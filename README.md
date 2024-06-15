@@ -1,4 +1,7 @@
-## Hi there 👋
+
+
+### 👋 Hi there 👋
+
 
 <!--
 **RiHyeonKIM/RiHyeonKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +13,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: gymoon10@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 **Education** 
+   
+ - B.S in Electronic and IT Media Engineering, Seoul National University of Science and Technology (2015~2021)
+
+🌱 **Research Area** 
+
+😄 **Awards**
+
+
